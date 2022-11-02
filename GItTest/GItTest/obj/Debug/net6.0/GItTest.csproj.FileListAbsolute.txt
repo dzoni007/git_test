@@ -1,0 +1,15 @@
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\bin\Debug\net6.0\GItTest.exe
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\bin\Debug\net6.0\GItTest.deps.json
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\bin\Debug\net6.0\GItTest.runtimeconfig.json
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\bin\Debug\net6.0\GItTest.dll
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\bin\Debug\net6.0\GItTest.pdb
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.csproj.AssemblyReference.cache
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.AssemblyInfoInputs.cache
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.AssemblyInfo.cs
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.csproj.CoreCompileInputs.cache
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.dll
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\refint\GItTest.dll
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.pdb
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\GItTest.genruntimeconfig.cache
+C:\Users\ndukic\Desktop\git_test\GItTest\GItTest\obj\Debug\net6.0\ref\GItTest.dll
